@@ -1,0 +1,13 @@
+.navbar.navbar-expand-lg {
+	background-color: white;
+}
+
+#home-link, #about-link, #projects-link	{
+	color: #D7ABAB;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#home-link:hover, #about-link:hover, #projects-link:hover {
+	color: #CC9999;
+}
