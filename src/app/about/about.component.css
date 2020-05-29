@@ -1,6 +1,20 @@
-p {
-	margin: 15px;
+h1 {	
+	font-weight: 300;
+	padding: 1%;
 	color: gray;
-	font-size: 100px;
+	font-size: 50px;
 	text-align: center;
 }
+
+p {
+	text-align: justify;
+	color: gray;
+	padding: 1%;
+}
+
+/*#about {	
+	padding: 5%;
+	margin-top: 50%;
+	margin-bottom: 50%;
+}
+*/
