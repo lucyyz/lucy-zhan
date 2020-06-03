@@ -6,13 +6,29 @@ h1 {
 	text-align: center;
 }
 
-h2 {
+.project-title {
 	text-align: center;
 	font-weight: 200;
 	font-size: 30px;
 	color: gray;
 }
 
-p {
+.project-desc, .modal-desc {
 	color: gray;
+}
+
+.gallery {
+	max-width: 100%;
+}
+
+.modal-img {
+	width: 100%;
+}
+
+#github-mark {
+	height: 30px;
+}
+
+#title {
+	padding-bottom: 1%;
 }
