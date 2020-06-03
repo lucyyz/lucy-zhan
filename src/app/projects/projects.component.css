@@ -1,9 +1,10 @@
-h1 {	
+#title {	
 	font-weight: 300;
 	padding: 1%;
 	color: gray;
 	font-size: 50px;
 	text-align: center;
+	margin-bottom: 3%;
 }
 
 .project-title {
@@ -27,8 +28,4 @@ h1 {
 
 #github-mark {
 	height: 30px;
-}
-
-#title {
-	padding-bottom: 1%;
 }
