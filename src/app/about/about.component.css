@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dynalight&display=swap');
+
 h1 {	
+	font-family: 'Dynalight', sans-serif;
 	font-weight: 300;
 	padding: 1%;
 	color: gray;
-	font-size: 50px;
+	font-size: 60px;
 	text-align: center;
 }
 
@@ -10,6 +13,10 @@ p {
 	text-align: left;
 	color: gray;
 	padding: 1%;
+}
+
+#vsco {
+	max-height: 30px;
 }
 
 /*#about {	
