@@ -9,7 +9,7 @@
 	text-align: center;
 }
 
-p {
+#about p {
 	text-align: left;
 	color: gray;
 	padding: 1%;
@@ -17,6 +17,15 @@ p {
 
 #vsco {
 	max-height: 30px;
+}
+
+.row {
+	margin: 5%;
+	/*margin-top: 5%;*/
+}
+
+.carousel-item img {
+	width: 100%;
 }
 
 /*#about {	
