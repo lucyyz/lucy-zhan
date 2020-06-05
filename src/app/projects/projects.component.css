@@ -37,7 +37,11 @@
 	margin: 5%;
 }
 
-#math-app-carousel {
+#carouselExampleControls {
 	max-width: 50%;
 	margin: auto;
+}
+
+.project-desc {
+	text-align: justify;
 }
