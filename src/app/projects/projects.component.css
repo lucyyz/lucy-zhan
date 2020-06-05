@@ -45,3 +45,11 @@
 .project-desc {
 	text-align: justify;
 }
+
+.gallery {
+	cursor: pointer;
+}
+
+.carousel-item {
+	cursor: pointer;
+}
