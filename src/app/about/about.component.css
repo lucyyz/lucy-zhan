@@ -22,3 +22,8 @@
 .row {
 	margin: 5%;
 }
+
+#lucy-pictures-carousel {
+	max-width: 100%;
+	margin: auto;
+}

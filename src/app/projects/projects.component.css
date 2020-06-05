@@ -35,3 +35,8 @@
 .row {
 	margin: 5%;
 }
+
+#math-app-carousel {
+	max-width: 50%;
+	margin: auto;
+}
